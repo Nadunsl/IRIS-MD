@@ -10,7 +10,6 @@
     "SESSION_ID": {
       "description": "paste Your Sesson id",
       "required": true
-      "value" : "Raganork~cc93b5e26214609ae606e4b13c61d11b:666e7237383848536a69513d"
     },
     "HANDLERS": {
       "description": "Enter Prefix For Commands",
