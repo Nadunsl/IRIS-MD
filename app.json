@@ -8,8 +8,9 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "paste Your Session ID",
+      "description": "paste Your Sesson id",
       "required": true
+      "value" : "Raganork~cc93b5e26214609ae606e4b13c61d11b:666e7237383848536a69513d"
     },
     "HANDLERS": {
       "description": "Enter Prefix For Commands",
@@ -19,17 +20,17 @@
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "3b2f7680-ce96-401a-b525-bd386344c9f4"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "risi-botz-g"
     },
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": true,
-      "value": "8801975492880"
+      "value": "94781352903"
     },
     "INFO": {
       "description": "Enter the Type of pic & ownername & botname u want",
